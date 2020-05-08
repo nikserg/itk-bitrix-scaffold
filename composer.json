@@ -1,0 +1,12 @@
+{
+  "name": "izucken/itk-bitrix-scaffold",
+  "require": {
+    "izucken/bitrix24-rest-client": "^1.2.9",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "itcomgk\\": "src/"
+    }
+  }
+}

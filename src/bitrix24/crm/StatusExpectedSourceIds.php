@@ -14,4 +14,5 @@ class StatusExpectedSourceIds
     const PORTAL_ITCOM_SELF = 'PORTAL_ITCOM_SELF';
     const PORTAL_ITCOM_PARTNER = 'PORTAL_ITCOM_PARTNER';
     const FRAME_DUMMY = 'FRAME_DUMMY';
+    const FRAME_FAST_ORDER = 'FRAME_FAST_ORDER';
 }

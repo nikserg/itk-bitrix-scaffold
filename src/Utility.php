@@ -137,7 +137,7 @@ class Utility
      * @return array
      * @see explode
      */
-    public static function recursiveExplode(array $delimiters, ?string $source)
+    public static function recursiveExplode(array $delimiters, $source)
     {
         if (empty($source)) {
             return [];

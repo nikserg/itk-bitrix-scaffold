@@ -1,7 +1,7 @@
 {
   "name": "nikserg/itk-bitrix-scaffold",
   "require": {
-    "izucken/bitrix24-rest-client": "*",
+    "nikserg/bitrix24-rest-client": "*",
     "ext-json": "*"
   },
   "autoload": {
